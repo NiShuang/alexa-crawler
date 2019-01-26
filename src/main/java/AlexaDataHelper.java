@@ -32,7 +32,7 @@ public class AlexaDataHelper {
                 "Accept-Language: zh-CN,zh;q=0.9\n" +
                 "Cache-Control: no-cache\n" +
                 "Connection: keep-alive\n" +
-                "Cookie: to paste" +
+//                "Cookie: to paste" +
                 "Host: www.alexa.cn\n" +
                 "Pragma: no-cache\n" +
                 "Upgrade-Insecure-Requests: 1\n" +
